@@ -1,0 +1,20 @@
+{
+  "name": "chat4.0",
+  "version": "4.0.0",
+  "description": "chat",
+  "main": "AnotherOneVersion/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exp": "^57.2.1",
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "@scrsnc/eslint-config": "^2.2.0"
+  },
+  "keywords": []
+}
